@@ -13,8 +13,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
   "bugs": {
     "url": "https://github.com/emilly94/gulp/issues"
   },
-  "homepage": "https://github.com/emilly94/gulp#readme"
+  "homepage": "https://github.com/emilly94/gulp#readme",
+  "dependencies": {
+    "gulp-cli": "^2.3.0"
+  }
 }
