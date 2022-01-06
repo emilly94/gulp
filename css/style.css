@@ -1,0 +1,40 @@
+.owl-theme .owl-dots {
+	text-align: center;
+	margin-top: 30px;
+}
+.owl-theme .owl-dots .owl-dot {
+	outline: none;
+}
+.owl-theme .owl-dots .active span {
+	background-color: #3a8bcd!important;
+}
+.owl-theme .owl-dots .owl-dot span {
+	background-color: #aaa;
+	width: 8px;
+	height: 8px;
+	display: inline-block;
+	margin: 0px 5px;
+	outline: none;
+  border-radius: 30px
+}
+
+.owl-nav{
+  display: none;
+}
+
+.itens{
+  margin-top: 30px;
+}
+
+.card img{
+  height: 264px;
+}
+
+footer{
+  padding: 30px;
+  text-align: justify;
+  
+}
+#redeSocial{
+  margin-right: 80px!important;
+}
