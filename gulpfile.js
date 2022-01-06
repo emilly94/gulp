@@ -18,6 +18,7 @@ function tarefasJS(){
   return gulp.src('./vendor/**/*.js')
   .pipe(concat('libs.js'))
   .pipe(uglify())
+  .pipe(gulp.dest('.dist/js'))
 }
 
 exports.styles = tarefasCss
